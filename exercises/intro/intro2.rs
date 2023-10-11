@@ -6,5 +6,5 @@
 // hint.
 
 fn main() {
-    println!("Hello {}!", "os2edu..cn");
+    println!("Hello {}!", "Rustlings");
 }
