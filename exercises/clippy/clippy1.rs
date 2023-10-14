@@ -11,7 +11,7 @@
 
 
 use std::f32;
-use f32::consts::PI as pi;
+use std::f32::consts::PI as pi;
 
 fn main() {
     // let pi = f32::consts::PI;
